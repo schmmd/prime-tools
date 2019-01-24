@@ -1,0 +1,14 @@
+AC_INIT(src/prime/prime.c)
+AM_INIT_AUTOMAKE(prime,1.0)
+AC_PROG_CC
+LDFLAGS="$LDFLAGS -lm"
+AC_PROG_INSTALL
+AC_OUTPUT(
+	  Makefile \
+    src/Makefile  \
+	  src/prime/Makefile \
+	  src/million/Makefile \
+	  src/first/Makefile \
+	  src/isprime/Makefile \
+    src/elimination/Makefile
+	 )

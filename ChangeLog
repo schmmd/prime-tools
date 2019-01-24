@@ -1,0 +1,12 @@
+Prime Tools. Copyright (c) 2005 Michael Schmitz.
+
+March 2005:
+	1. C++ source reduced to C source.
+	2. Makefile system rewritten with autoconf tools instead of Ajunta.
+	3. Variable names standardized
+	4. Comments reorganized
+	5. primes.h created to increase modularity.
+
+Various changes in the past years dramatically improved the algorithms used to
+solve for primes but remain undocumented because they happened long ago,
+before documentation (or maybe just before I cared)

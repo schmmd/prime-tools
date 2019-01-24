@@ -1,0 +1,26 @@
+Prime Tools version 1.0.0
+Copyright (c) 2005 Michael D. Schmitz
+
+The Prime Tools package is composed of five programs, each with a specific
+function. these programs are:
+
+ elimination:
+   find all primes less than n using a fast and memory efficient algorithm.
+    
+ first:
+   finds the first n primes.
+    
+ isprime:
+   determines if input x is prime.
+    
+ million:
+   finds the first x primes and breaks the output into packages by the million
+    
+ prime:
+   finds the first x primes
+
+These programs began when I was still a middle school student, an eighth
+grader.  Over the years they have improved much, although they still could be
+far more efficient.  They exist largely as a memory of how far I have come
+since the eighth grade.  I hope this project can inspire others as much as it
+interested me in math and science!
